@@ -1,5 +1,7 @@
 const generateCombos = (n) => {
   //    Write your code here
+  
+  console.log();
 };
 
 const [_1, _2, sizeStr, ..._3] = process.argv;
